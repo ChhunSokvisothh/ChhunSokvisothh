@@ -2,7 +2,7 @@
 - 👀 I’m interested in Softwaree Engineering, UX/UI Design.
 - 🌱 I’m currently learning Full-Stack Development, Machine Learning, Python, Java.
 - 💞️ I’m looking to collaborate on my personal project of making a machine learning bot that reads CSV file and return summarize graphs.
-- 📫 How to reach me: Email: Visoth079@gmail.com, https://www.linkedin.com/in/chhun-sokvisoth-747031267/
+- 📫 How to reach me: Email, Linkedin.
 - ⚡ Fun fact: I can talk to people!
 
 <!---
